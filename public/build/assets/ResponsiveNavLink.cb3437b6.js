@@ -1,0 +1,1 @@
+import{o as a,e as o,a as r,r as t}from"./app.5c792e26.js";const c={__name:"ResponsiveNavLink",props:{active:Boolean,href:String,as:String},setup(n){return(e,s)=>(a(),o("div",null,[r("button",null,[t(e.$slots,"default")])]))}};export{c as _};

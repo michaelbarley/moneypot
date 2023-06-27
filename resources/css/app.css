@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.bg-darkPurple {
+    background: #715192;
+}
+
+.moneypot-purple {
+    color: #715192;
+}
+
+label {
+    text-align: left;
+}
+.pig-logo {
+    position: relative;
+    left: 10%;
+}
